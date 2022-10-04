@@ -1,0 +1,2703 @@
+fileFormatVersion: 2
+guid: d9e41b7db94b2974e9229ed76b3d10e6
+timeCreated: 1466592935
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ribbon
+    100002: ROOT
+    100004: Teddy
+    100006: Teddy 1
+    100008: Teddy Footsteps
+    100010: Teddy Head
+    100012: Teddy HeadNub
+    100014: Teddy L Calf
+    100016: Teddy L Clavicle
+    100018: Teddy L Finger0
+    100020: Teddy L Finger01
+    100022: Teddy L Finger0Nub
+    100024: Teddy L Finger1
+    100026: Teddy L Finger11
+    100028: Teddy L Finger1Nub
+    100030: Teddy L Foot
+    100032: Teddy L Forearm
+    100034: Teddy L Hand
+    100036: Teddy L Thigh
+    100038: Teddy L Toe0
+    100040: Teddy L Toe0Nub
+    100042: Teddy L UpperArm
+    100044: Teddy Neck
+    100046: Teddy Pelvis
+    100048: Teddy Ponytail1
+    100050: Teddy Ponytail1Nub
+    100052: Teddy Ponytail2
+    100054: Teddy Ponytail2Nub
+    100056: Teddy R Calf
+    100058: Teddy R Clavicle
+    100060: Teddy R Finger0
+    100062: Teddy R Finger01
+    100064: Teddy R Finger0Nub
+    100066: Teddy R Finger1
+    100068: Teddy R Finger11
+    100070: Teddy R Finger1Nub
+    100072: Teddy R Foot
+    100074: Teddy R Forearm
+    100076: Teddy R Hand
+    100078: Teddy R Thigh
+    100080: Teddy R Toe0
+    100082: Teddy R Toe0Nub
+    100084: Teddy R UpperArm
+    100086: Teddy Spine
+    100088: Teddy Spine1
+    100090: Teddy Spine2
+    100092: Teddy Tail
+    100094: Teddy TailNub
+    100096: Teddy Xtra01
+    100098: Teddy Xtra01Nub
+    100100: Teddy Xtra02
+    100102: Teddy Xtra02Nub
+    100104: Teddy Xtra03
+    100106: Teddy Xtra03Nub
+    100108: //RootNode
+    100110: Tshirt
+    400000: Ribbon
+    400002: ROOT
+    400004: Teddy
+    400006: Teddy 1
+    400008: Teddy Footsteps
+    400010: Teddy Head
+    400012: Teddy HeadNub
+    400014: Teddy L Calf
+    400016: Teddy L Clavicle
+    400018: Teddy L Finger0
+    400020: Teddy L Finger01
+    400022: Teddy L Finger0Nub
+    400024: Teddy L Finger1
+    400026: Teddy L Finger11
+    400028: Teddy L Finger1Nub
+    400030: Teddy L Foot
+    400032: Teddy L Forearm
+    400034: Teddy L Hand
+    400036: Teddy L Thigh
+    400038: Teddy L Toe0
+    400040: Teddy L Toe0Nub
+    400042: Teddy L UpperArm
+    400044: Teddy Neck
+    400046: Teddy Pelvis
+    400048: Teddy Ponytail1
+    400050: Teddy Ponytail1Nub
+    400052: Teddy Ponytail2
+    400054: Teddy Ponytail2Nub
+    400056: Teddy R Calf
+    400058: Teddy R Clavicle
+    400060: Teddy R Finger0
+    400062: Teddy R Finger01
+    400064: Teddy R Finger0Nub
+    400066: Teddy R Finger1
+    400068: Teddy R Finger11
+    400070: Teddy R Finger1Nub
+    400072: Teddy R Foot
+    400074: Teddy R Forearm
+    400076: Teddy R Hand
+    400078: Teddy R Thigh
+    400080: Teddy R Toe0
+    400082: Teddy R Toe0Nub
+    400084: Teddy R UpperArm
+    400086: Teddy Spine
+    400088: Teddy Spine1
+    400090: Teddy Spine2
+    400092: Teddy Tail
+    400094: Teddy TailNub
+    400096: Teddy Xtra01
+    400098: Teddy Xtra01Nub
+    400100: Teddy Xtra02
+    400102: Teddy Xtra02Nub
+    400104: Teddy Xtra03
+    400106: Teddy Xtra03Nub
+    400108: //RootNode
+    400110: Tshirt
+    2300000: Ribbon
+    3300000: Ribbon
+    4300000: Teddy
+    4300002: Ribbon
+    4300004: Tshirt
+    7400000: Idle
+    7400002: Idle2
+    7400004: Idle3
+    7400006: Idlesad
+    7400008: Walk
+    7400010: Run
+    7400012: Runjump
+    7400014: Jump
+    7400016: Clap
+    7400018: Wave
+    7400020: Sit
+    7400022: Sitidle
+    7400024: Standup
+    9500000: //RootNode
+    13700000: Teddy
+    13700002: Tshirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: ROOT
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar to
+      improve retargeting quality.\n\t'Teddy Spine' has translation animation that
+      will be discarded.\n\t'Teddy Spine' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Teddy Spine1' has translation
+      animation that will be discarded.\n\t'Teddy Spine2' has translation animation
+      that will be discarded.\n\t'Teddy Neck' has translation animation that will
+      be discarded.\n\t'Teddy Neck' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'Teddy Xtra02' has translation animation
+      that will be discarded.\n\t'Teddy Xtra03' has translation animation that will
+      be discarded.\n\t'Teddy L Clavicle' has translation animation that will be discarded.\n\t'Teddy
+      R Clavicle' has translation animation that will be discarded.\n\t'Teddy L Thigh'
+      has translation animation that will be discarded.\n\t'Teddy R Thigh' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves:
+      - name: Curve
+        curve:
+          serializedVersion: 2
+          curve:
+          - time: 0
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          - time: 1
+            value: 0
+            inSlope: 0
+            outSlope: 0
+            tangentMode: 0
+          preInfinity: 2
+          postInfinity: 2
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle2
+      takeName: Take 001
+      firstFrame: 206
+      lastFrame: 365
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle3
+      takeName: Take 001
+      firstFrame: 371
+      lastFrame: 530
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idlesad
+      takeName: Take 001
+      firstFrame: 536
+      lastFrame: 735
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 740
+      lastFrame: 760
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 766
+      lastFrame: 779
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Runjump
+      takeName: Take 001
+      firstFrame: 785
+      lastFrame: 805
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Jump
+      takeName: Take 001
+      firstFrame: 811
+      lastFrame: 840
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Clap
+      takeName: Take 001
+      firstFrame: 846
+      lastFrame: 851
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Wave
+      takeName: Take 001
+      firstFrame: 857
+      lastFrame: 864
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sit
+      takeName: Take 001
+      firstFrame: 870
+      lastFrame: 885
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Sitidle
+      takeName: Take 001
+      firstFrame: 891
+      lastFrame: 1090
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Standup
+      takeName: Take 001
+      firstFrame: 1096
+      lastFrame: 1147
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: ROOT
+        weight: 1
+      - path: ROOT/Teddy 1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Footsteps
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy L Thigh/Teddy L Calf/Teddy
+          L Foot/Teddy L Toe0/Teddy L Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy R Thigh/Teddy R Calf/Teddy
+          R Foot/Teddy R Toe0/Teddy R Toe0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Ribbon
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy HeadNub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail1/Teddy Ponytail1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Ponytail2/Teddy Ponytail2Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra01/Teddy Xtra01Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra02/Teddy Xtra02Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy Head/Teddy Xtra03/Teddy Xtra03Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger0/Teddy L Finger01/Teddy L Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy L Clavicle/Teddy L UpperArm/Teddy L Forearm/Teddy L Hand/Teddy
+          L Finger1/Teddy L Finger11/Teddy L Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger0/Teddy R Finger01/Teddy R Finger0Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Spine1/Teddy Spine2/Teddy
+          Neck/Teddy R Clavicle/Teddy R UpperArm/Teddy R Forearm/Teddy R Hand/Teddy
+          R Finger1/Teddy R Finger11/Teddy R Finger1Nub
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail
+        weight: 1
+      - path: ROOT/Teddy 1/Teddy Pelvis/Teddy Spine/Teddy Tail/Teddy TailNub
+        weight: 1
+      - path: Teddy
+        weight: 1
+      - path: Tshirt
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: ROOT
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

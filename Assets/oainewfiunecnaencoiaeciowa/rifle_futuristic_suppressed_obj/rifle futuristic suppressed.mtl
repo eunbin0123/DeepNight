@@ -1,0 +1,92 @@
+# Blender MTL File: 'rifle futuristic suppressed 008.blend'
+# Material Count: 9
+
+newmtl black
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.015079 0.015079 0.015079
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl black_rifle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.013910 0.013910 0.013910
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rifle texture 001.png
+map_Bump rifle bump 001.png
+
+newmtl black_rifle_texture_001.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.015079 0.015079 0.015079
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rifle texture 001.png
+
+newmtl blue
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.383290 0.574016 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.400000
+d 1.000000
+illum 2
+
+newmtl gray
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.166332 0.166332 0.166332
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl red
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.373760 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl red_grip
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.381591 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump suppressor bump 001.png
+map_Kd suppressor texture 001.png
+
+newmtl red_rifle
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.373760 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd rifle texture 001.png
+map_Bump rifle bump 001.png
+
+newmtl red_suppressor
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.373760 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Bump suppressor bump 001.png
+map_Kd suppressor texture 001.png

@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 70e793d2b2ce3f14f85f44241fa91f10
+timeCreated: 1466754016
+licenseType: Store
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ribbon
+    100002: ROOT
+    100004: Teddy
+    100006: Teddy 1
+    100008: Teddy Footsteps
+    100010: Teddy Head
+    100012: Teddy HeadNub
+    100014: Teddy L Calf
+    100016: Teddy L Clavicle
+    100018: Teddy L Finger0
+    100020: Teddy L Finger01
+    100022: Teddy L Finger0Nub
+    100024: Teddy L Finger1
+    100026: Teddy L Finger11
+    100028: Teddy L Finger1Nub
+    100030: Teddy L Foot
+    100032: Teddy L Forearm
+    100034: Teddy L Hand
+    100036: Teddy L Thigh
+    100038: Teddy L Toe0
+    100040: Teddy L Toe0Nub
+    100042: Teddy L UpperArm
+    100044: Teddy Neck
+    100046: Teddy Pelvis
+    100048: Teddy Ponytail1
+    100050: Teddy Ponytail1Nub
+    100052: Teddy Ponytail2
+    100054: Teddy Ponytail2Nub
+    100056: Teddy R Calf
+    100058: Teddy R Clavicle
+    100060: Teddy R Finger0
+    100062: Teddy R Finger01
+    100064: Teddy R Finger0Nub
+    100066: Teddy R Finger1
+    100068: Teddy R Finger11
+    100070: Teddy R Finger1Nub
+    100072: Teddy R Foot
+    100074: Teddy R Forearm
+    100076: Teddy R Hand
+    100078: Teddy R Thigh
+    100080: Teddy R Toe0
+    100082: Teddy R Toe0Nub
+    100084: Teddy R UpperArm
+    100086: Teddy Spine
+    100088: Teddy Spine1
+    100090: Teddy Spine2
+    100092: Teddy Tail
+    100094: Teddy TailNub
+    100096: Teddy Xtra01
+    100098: Teddy Xtra01Nub
+    100100: Teddy Xtra02
+    100102: Teddy Xtra02Nub
+    100104: Teddy Xtra03
+    100106: Teddy Xtra03Nub
+    100108: //RootNode
+    100110: Tshirt
+    400000: Ribbon
+    400002: ROOT
+    400004: Teddy
+    400006: Teddy 1
+    400008: Teddy Footsteps
+    400010: Teddy Head
+    400012: Teddy HeadNub
+    400014: Teddy L Calf
+    400016: Teddy L Clavicle
+    400018: Teddy L Finger0
+    400020: Teddy L Finger01
+    400022: Teddy L Finger0Nub
+    400024: Teddy L Finger1
+    400026: Teddy L Finger11
+    400028: Teddy L Finger1Nub
+    400030: Teddy L Foot
+    400032: Teddy L Forearm
+    400034: Teddy L Hand
+    400036: Teddy L Thigh
+    400038: Teddy L Toe0
+    400040: Teddy L Toe0Nub
+    400042: Teddy L UpperArm
+    400044: Teddy Neck
+    400046: Teddy Pelvis
+    400048: Teddy Ponytail1
+    400050: Teddy Ponytail1Nub
+    400052: Teddy Ponytail2
+    400054: Teddy Ponytail2Nub
+    400056: Teddy R Calf
+    400058: Teddy R Clavicle
+    400060: Teddy R Finger0
+    400062: Teddy R Finger01
+    400064: Teddy R Finger0Nub
+    400066: Teddy R Finger1
+    400068: Teddy R Finger11
+    400070: Teddy R Finger1Nub
+    400072: Teddy R Foot
+    400074: Teddy R Forearm
+    400076: Teddy R Hand
+    400078: Teddy R Thigh
+    400080: Teddy R Toe0
+    400082: Teddy R Toe0Nub
+    400084: Teddy R UpperArm
+    400086: Teddy Spine
+    400088: Teddy Spine1
+    400090: Teddy Spine2
+    400092: Teddy Tail
+    400094: Teddy TailNub
+    400096: Teddy Xtra01
+    400098: Teddy Xtra01Nub
+    400100: Teddy Xtra02
+    400102: Teddy Xtra02Nub
+    400104: Teddy Xtra03
+    400106: Teddy Xtra03Nub
+    400108: //RootNode
+    400110: Tshirt
+    2300000: Ribbon
+    3300000: Ribbon
+    4300000: Teddy
+    4300002: Ribbon
+    4300004: Tshirt
+    9500000: //RootNode
+    13700000: Teddy
+    13700002: Tshirt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: ROOT
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
