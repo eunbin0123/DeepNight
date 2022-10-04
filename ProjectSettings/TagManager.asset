@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - bullet
+  - bullet_monster
+  - Laser
+  - Enemy
+  - FilmManager
+  - Hand
+  - GameManager
+  - Locker
+  - bossbullet
+  - Right
+  - Left
+  - Gun
+  - Planeprop
+  - DeadFloor
+  - Floor
+  - Train
+  - Train_Destination
+  - Train_Paused
+  - Train_SetPosition
+  - balloon
+  - closet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Hand
+  - Camlight
+  - FilmManager
+  - FilmManager_UI
+  - SayDialog_UI
+  - Bullet
+  - Soldier
+  - Furniture
+  - Balloon
+  - Obstacles
+  - Player
+  - SecondBoss
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
